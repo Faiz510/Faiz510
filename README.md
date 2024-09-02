@@ -1,3 +1,6 @@
+![logo](https://github.com/Faiz510/Faiz510/blob/main/gitpage-banner.png)
+
+
 # 💫 About Me:
 Passionate self-taught programmer with a non-tech educational background, now proficient in the MERN stack. Skilled in JavaScript, React.js, and Node.js, I'm driven by a love for creating interactive and dynamic web applications.<br><br>Through hands-on experience and continuous learning, I have honed my skills and developed a strong foundation in full-stack development. I'm seeking a remote internship opportunity to enhance my abilities, gain valuable industry experience, and contribute positively to innovative tech projects.<br><br>Excited to leverage my unique perspective in crafting impactful solutions.
 
