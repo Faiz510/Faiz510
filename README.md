@@ -4,7 +4,10 @@
 # 💫 About Me:
 Passionate self-taught programmer with a non-tech educational background, now proficient in the MERN stack. Skilled in JavaScript, React.js, and Node.js, I'm driven by a love for creating interactive and dynamic web applications.<br><br>Through hands-on experience and continuous learning, I have honed my skills and developed a strong foundation in full-stack development. I'm seeking a remote internship opportunity to enhance my abilities, gain valuable industry experience, and contribute positively to innovative tech projects.<br><br>Excited to leverage my unique perspective in crafting impactful solutions.
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/faizyab.khalid.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fk-b010491a4) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/khalidfaizyab) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/profile/Faizyab-Khalid) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24602834/faizyab-khalid) 
