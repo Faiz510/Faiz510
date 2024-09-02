@@ -1,4 +1,4 @@
-![logo](https://github.com/Faiz510/Faiz510/blob/main/gitpage-banner.png)
+![logo](https://github.com/Faiz510/Faiz510/blob/main/github-page-banner.png)
 
 
 # 💫 About Me:
